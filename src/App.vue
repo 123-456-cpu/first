@@ -11,7 +11,7 @@
 </template>
 
 <style>
-yo nigga
+
 @font-face {
   font-family: Font;
   src: url(/src/assets/font/Poppins.ttf);
