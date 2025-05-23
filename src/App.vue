@@ -18,6 +18,7 @@
   src: url(/src/assets/font/Poppins.ttf);
 }
 
+/* fgdg */
 * {
   font-family: Font;
   padding: 0;
